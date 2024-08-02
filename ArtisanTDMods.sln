@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtisanTDModLoader", "ArtisanTDModLoader\ArtisanTDModLoader.csproj", "{B8D4FF01-35D0-48FB-932F-EDEC3E80506D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterSpeed", "BetterSpeed\BetterSpeed.csproj", "{4E98817D-09BB-4771-BB21-0647DCDDE778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndlessMod", "EndlessMod\EndlessMod.csproj", "{EB33FF23-FAFA-4BA3-ADC2-366264D9983A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8D4FF01-35D0-48FB-932F-EDEC3E80506D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D4FF01-35D0-48FB-932F-EDEC3E80506D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D4FF01-35D0-48FB-932F-EDEC3E80506D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D4FF01-35D0-48FB-932F-EDEC3E80506D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E98817D-09BB-4771-BB21-0647DCDDE778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E98817D-09BB-4771-BB21-0647DCDDE778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E98817D-09BB-4771-BB21-0647DCDDE778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E98817D-09BB-4771-BB21-0647DCDDE778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB33FF23-FAFA-4BA3-ADC2-366264D9983A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB33FF23-FAFA-4BA3-ADC2-366264D9983A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB33FF23-FAFA-4BA3-ADC2-366264D9983A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB33FF23-FAFA-4BA3-ADC2-366264D9983A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
